@@ -41,7 +41,7 @@
 			</div>
 			<div class="payments">
 				<div class="lewy">
-					<h3 class="titles">Analiza płatności</h3>
+					<h3 class="titles">Analiza płatności Radek</h3>
 					<hr>
 					<p>Wartość towarów: </p>
 					<p>Kwota płatnosci: </p>
